@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding:0 ;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(img/f1.jpeg);
+}
+
+.form-registro{
+   width: 400px;
+   background: #a82424;
+   padding: 30 px;
+   margin:  auto;
+   margin-top: 100px;
+   border-radius: 4px;
+   font-family: Impact , Haettenschweiler ,  'calibri';
+   color: black;
+}
+
+.form-registro h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.controls {
+    width:100%;
+    background: white ;
+    padding: 10px;
+    border-radius: 4;
+    margin-bottom: 16px ;
+    border: 1px solid black ;
+    font-family: 'calibri';
+    font-size: 18px;
+
+
+}
+.form-registro .boton{
+width: 100%;
+background: white;
+border: none;
+padding: 12px;
+color: black;
+margin: 16px 0;
+font-size: 16px;
+}
